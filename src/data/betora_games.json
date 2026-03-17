@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bt_thunder_win_hold_and_win",
+    "name": "Thunder Win Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_hot_fortune_hold_and_win",
+    "name": "Hot Fortune Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_coin_charm_hold_and_win",
+    "name": "Coin Charm Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_rich_joker_hold_and_win",
+    "name": "Rich Joker Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_lucky_trio_pots_hold_and_win",
+    "name": "Lucky Trio Pots Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_joker_power_spin_hold_and_win",
+    "name": "Joker Power Spin Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  }
+]

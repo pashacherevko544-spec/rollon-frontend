@@ -1,0 +1,542 @@
+[
+  {
+    "id": "in_mineslot_2",
+    "name": "Mineslot 2",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_coin",
+    "name": "Chicken Coin",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_2_bonus",
+    "name": "Chicken Road 2 Bonus",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_mega_block",
+    "name": "MegaBlock",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_topo_mole",
+    "name": "Topo-Mole",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_aviafly_2",
+    "name": "AviaFly 2",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_bonus",
+    "name": "Chicken Road Bonus",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_mine_slot",
+    "name": "Mine Slot",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken-road-new-year",
+    "name": "Chicken Road Ice",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_pengu_sport",
+    "name": "Pengu Sport",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_twist_new_year",
+    "name": "Twist X-mas",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_crash",
+    "name": "Crash",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "in_wheel",
+    "name": "Wheel",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_tower",
+    "name": "Tower",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_cryptos",
+    "name": "Cryptos",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_diver",
+    "name": "Diver",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_new_double",
+    "name": "Double Online",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_new_hilo",
+    "name": "Hilo Joker",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_robo_dice",
+    "name": "Robo dice",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_goblin-tower",
+    "name": "Goblin-tower",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_plinko",
+    "name": "Plinko 1000",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_hot_mines",
+    "name": "Hot mines",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_keno",
+    "name": "Sweet Keno",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_platform_mines",
+    "name": "Mines",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_bubbles",
+    "name": "Bubbles",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_roulette",
+    "name": "Roulette",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "roulette",
+    "buy_feature": false
+  },
+  {
+    "id": "in_coinflip",
+    "name": "Coinflip",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_lucky_mines",
+    "name": "Lucky mines",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_aviafly",
+    "name": "AviaFly",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "in_limbo",
+    "name": "Limbo",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_jogo-do-bicho",
+    "name": "Jogo Do Bicho",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "93.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_triple",
+    "name": "Triple",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_stairs",
+    "name": "Stairs",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_joker_poker",
+    "name": "Joker Poker",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road",
+    "name": "Chicken Road",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_sugar_daddy",
+    "name": "SugarDaddy",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "in_plinko_aztec",
+    "name": "Plinko Aztec",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_hamster_run",
+    "name": "Hamster Run",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_forest_fortune_v1",
+    "name": "Forest Arrow",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_two",
+    "name": "Chicken Road 2.0",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_penalty_unlimited",
+    "name": "Penalty Unlimited",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_squid_game",
+    "name": "Squid Gamebler",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_ballonix",
+    "name": "BalloniX",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "in_twist",
+    "name": "Twist",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_rock_paper_scissors",
+    "name": "Rock Paper Scissors",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_rabbit_road_inout",
+    "name": "Rabbit Road",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_royal",
+    "name": "Chicken Royal",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "in_fish_road_v1",
+    "name": "Fish Road",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_zombies",
+    "name": "Chicken vs Zombies",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_gold",
+    "name": "Chicken Road Gold",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_vegas",
+    "name": "Chicken Road Vegas",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_cricket_road",
+    "name": "Cricket Road",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_chicken_road_race",
+    "name": "Chicken Road Race",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "in_fish_boom",
+    "name": "Fish Boom",
+    "provider": "inout",
+    "provider_name": "Inout",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  }
+]

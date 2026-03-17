@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "15_dragon_pearls",
+    "name": "15 Dragon Pearls: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_african_drums",
+    "name": "3 African Drums",
+    "genre": "slot",
+    "rtp": "95.58",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_aztec_temples",
+    "name": "3 Aztec Temples",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3carts_of_gold",
+    "name": "3 Carts of Gold: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_chillies_and_joker",
+    "name": "3 Chillies and Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.50",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_china_pots",
+    "name": "3 China Pots",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_clover_pots",
+    "name": "3 Clover Pots",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_clover_pots_extra",
+    "name": "3 Clover Pots Extra",
+    "genre": "slot",
+    "rtp": "95.63",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_coin_volcanoes",
+    "name": "3 Coin Volcanoes",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_coins",
+    "name": "3 Coins",
+    "genre": "slot",
+    "rtp": "95.77",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_coins_egypt",
+    "name": "3 Coins: Egypt",
+    "genre": "slot",
+    "rtp": "95.89",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_egypt_chests",
+    "name": "3 Egypt Chests",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_hot_chillies",
+    "name": "3 Hot Chillies",
+    "genre": "slot",
+    "rtp": "95.59",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_hot_teapots",
+    "name": "3 Hot Teapots",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_hungry_pandas",
+    "name": "3 Hungry Pandas",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_luxor_pots",
+    "name": "3 Luxor Pots: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_magic_lamps",
+    "name": "3 Magic Lamps: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_pirate_barrels",
+    "name": "3 Pirate Barrels: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_pots_of_egypt",
+    "name": "3 Pots of Egypt",
+    "genre": "slot",
+    "rtp": "95.5",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3pots_extra",
+    "name": "3 Pots Riches Extra: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3pots_riches",
+    "name": "3 Pots Riches: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_super_hot_chillies",
+    "name": "3 Super Hot Chillies",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3xcatch",
+    "name": "3x Catch",
+    "genre": "slot",
+    "rtp": "95.60",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "777_coins",
+    "name": "777 Coins",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "777sizzling_wins",
+    "name": "777 Sizzling Wins: 5 lines",
+    "genre": "slot",
+    "rtp": "96.21",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "african_spirit_sticky_wilds",
+    "name": "African Spirit Sticky Wilds",
+    "genre": "slot",
+    "rtp": "95.69",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "arizona_heist",
+    "name": "Arizona Heist: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.60",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "aztec_fire",
+    "name": "Aztec Fire",
+    "genre": "slot",
+    "rtp": "95.50",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "aztec_fire_2",
+    "name": "Aztec Fire 2",
+    "genre": "slot",
+    "rtp": "95.54",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "aztec_sun",
+    "name": "Aztec Sun: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.57",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "big_heist",
+    "name": "Big Heist",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "black_wolf",
+    "name": "Black Wolf",
+    "genre": "slot",
+    "rtp": "95.65",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "black_wolf_2",
+    "name": "Black Wolf 2",
+    "genre": "slot",
+    "rtp": "95.54",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "blazing_wins",
+    "name": "Blazing Wins: 5 lines",
+    "genre": "slot",
+    "rtp": "96.31",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "book_of_gold_multichance",
+    "name": "Book of Gold Multichance",
+    "genre": "slot",
+    "rtp": "95.4",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "book_of_sun_multichance",
+    "name": "Book of Sun Multichance",
+    "genre": "slot",
+    "rtp": "95.4",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "boom_gold",
+    "name": "Boom! Boom! Gold!",
+    "genre": "slot",
+    "rtp": "95.73",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "buffalo_power_2",
+    "name": "Buffalo Power 2: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.44",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "buffalo_xmas",
+    "name": "Buffalo Power Christmas",
+    "genre": "slot",
+    "rtp": "95.04",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "buffalo_megaways",
+    "name": "Buffalo Power Megaways",
+    "genre": "slot",
+    "rtp": "95.84",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "buffalo_power",
+    "name": "Buffalo Power: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.04",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "candy_boom",
+    "name": "Candy Boom",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "china_festival",
+    "name": "China Festival",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "clover_charm",
+    "name": "Clover Charm: Hit the Bonus",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_express",
+    "name": "Coin Express",
+    "genre": "",
+    "rtp": "yes",
+    "volatility": "8.56",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_lamp",
+    "name": "Coin Lamp",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_princess_x1000",
+    "name": "Coin Princess x1000",
+    "genre": "slot",
+    "rtp": "95.72",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_strike_2",
+    "name": "Coin Strike 2: Hold and Win",
+    "genre": "",
+    "rtp": "yes",
+    "volatility": "9.74",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_strike",
+    "name": "Coin Strike: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_up",
+    "name": "Coin Up",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_lightning",
+    "name": "Coin Up: Lightning",
+    "genre": "slot",
+    "rtp": "95.67",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_volcano",
+    "name": "Coin Volcano",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "crown_n_diamonds",
+    "name": "Crown and Diamonds: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "crystal_scarabs",
+    "name": "Crystal Scarabs",
+    "genre": "slot",
+    "rtp": "95.60",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "dancing_joker",
+    "name": "Dancing Joker",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "diamond_fort",
+    "name": "Diamond Fortunator: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.6",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "diamond_wins",
+    "name": "Diamond Wins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.52",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "diamonds_power",
+    "name": "Diamonds Power: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "divine_dragon",
+    "name": "Divine Dragon: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.56",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "dragon_pearls",
+    "name": "Dragon Pearls: hold and win",
+    "genre": "slot",
+    "rtp": "95.27",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "dragon_wealth",
+    "name": "Dragon Wealth",
+    "genre": "slot",
+    "rtp": "95.61",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "eagle_power",
+    "name": "Eagle Power: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.06",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "egypt_fire",
+    "name": "Egypt Fire",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "empire_gold",
+    "name": "Empire Gold: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "energy_coins",
+    "name": "Energy Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "energy_joker",
+    "name": "Energy Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.62",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "fire_coins",
+    "name": "Fire Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "fire_temple",
+    "name": "Fire Temple: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.70",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "fishing_bear",
+    "name": "Fishin Bear",
+    "genre": "slot",
+    "rtp": "95.58",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "forest_spirit",
+    "name": "Forest Spirit",
+    "genre": "slot",
+    "rtp": "95.67",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "fortune_globe",
+    "name": "Fortune Globe",
+    "genre": "slot",
+    "rtp": "95.5",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "fruits_and_joker_fever",
+    "name": "Fruits & Joker Fever",
+    "genre": "slot",
+    "rtp": "96.49",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "fruits_and_sevens_fever",
+    "name": "Fruits & Sevens: Fever",
+    "genre": "slot",
+    "rtp": "96.27",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "fruits_fever_5_lines",
+    "name": "Fruits Fever 5 lines",
+    "genre": "slot",
+    "rtp": "96.20",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "goddess_of_egypt",
+    "name": "Goddess of Egypt",
+    "genre": "slot",
+    "rtp": "95.78",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "gold_express",
+    "name": "Gold Express",
+    "genre": "slot",
+    "rtp": "95.42",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "gold_nuggets",
+    "name": "Gold Nuggets",
+    "genre": "slot",
+    "rtp": "95.63",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "golden_dancing_lion",
+    "name": "Golden Dancing Lion",
+    "genre": "slot",
+    "rtp": "95.78",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "golden_teapot",
+    "name": "Golden Teapot",
+    "genre": "slot",
+    "rtp": "95.62",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "grab_more_gold",
+    "name": "Grab more Gold",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "grab_the_gold",
+    "name": "Grab the Gold",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "great_panda",
+    "name": "Great Panda",
+    "genre": "slot",
+    "rtp": "95.07",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "green_chilli",
+    "name": "Green Chilli",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "green_chilli_2",
+    "name": "Green Chilli 2",
+    "genre": "slot",
+    "rtp": "95.6",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "happy_fish",
+    "name": "Happy Fish",
+    "genre": "slot",
+    "rtp": "95.61",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "hawaii_riches",
+    "name": "Hawaii Riches",
+    "genre": "slot",
+    "rtp": "95.57",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "hit_more_gold",
+    "name": "Hit more Gold!",
+    "genre": "slot",
+    "rtp": "95.57",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "hit_the_gold",
+    "name": "Hit the Gold!",
+    "genre": "slot",
+    "rtp": "95.59",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "hot_fire_fruits",
+    "name": "Hot Fire Fruits",
+    "genre": "slot",
+    "rtp": "95.65",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "jingle_coins",
+    "name": "Jingle Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "jokers_coins",
+    "name": "Joker's Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "king_of_the_sky",
+    "name": "King of the Sky: Hit the Bonus",
+    "genre": "slot",
+    "rtp": "95.50",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lady_fortune",
+    "name": "Lady Fortune",
+    "genre": "slot",
+    "rtp": "95.72",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lamp_of_wonder",
+    "name": "Lamp of Wonder",
+    "genre": "slot",
+    "rtp": "95.6",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lava_coins",
+    "name": "Lava Coins",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "legend_of_cleopatra_megaways",
+    "name": "Legend of Cleopatra Megaways",
+    "genre": "slot",
+    "rtp": "95.84",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "light_clovers",
+    "name": "Lightning Clovers: Hit the Bonus",
+    "genre": "slot",
+    "rtp": "95.49",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lion_coins",
+    "name": "Lion Coins",
+    "genre": "slot",
+    "rtp": "95.59",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lion_gems_3pots",
+    "name": "Lion Gems 3 Pots: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lion_gems",
+    "name": "Lion Gems: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.55",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "little_farm",
+    "name": "Little Farm",
+    "genre": "slot",
+    "rtp": "95.69",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lotus_charm",
+    "name": "Lotus Charm",
+    "genre": "slot",
+    "rtp": "95.67",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lucky_penny",
+    "name": "Lucky Penny",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "luxor_gold",
+    "name": "Luxor Gold: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "magic_apple",
+    "name": "Magic Apple",
+    "genre": "slot",
+    "rtp": "95.77",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "magic_apple_2",
+    "name": "Magic Apple 2",
+    "genre": "slot",
+    "rtp": "95.65",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "mammoth_peak",
+    "name": "Mammoth Peak: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.1",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "mariachi_lock",
+    "name": "Mariachi Lock",
+    "genre": "slot",
+    "rtp": "95.62",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "maya_sun",
+    "name": "Maya Sun",
+    "genre": "slot",
+    "rtp": "95.5",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "merry_giftmas",
+    "name": "Merry Giftmas: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "moon_sisters",
+    "name": "Moon sisters",
+    "genre": "slot",
+    "rtp": "95.54",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "more_magic_apple",
+    "name": "More Magic Apple",
+    "genre": "slot",
+    "rtp": "95.57",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "nights_of_fire",
+    "name": "Nights of Fire",
+    "genre": "slot",
+    "rtp": "95.59",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "olympian_gods",
+    "name": "Olympian Gods",
+    "genre": "slot",
+    "rtp": "95.63",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "pearl_diver",
+    "name": "Pearl Diver",
+    "genre": "slot",
+    "rtp": "95.55",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "pearl_diver_2",
+    "name": "Pearl Diver 2 Treasure Chest",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "pearl_ocean",
+    "name": "Pearl Ocean: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.95",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "piggy_power",
+    "name": "Piggy Power: Hit the Bonus",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "pink_joker",
+    "name": "Pink Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.87",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "pirate_chest",
+    "name": "Pirate Chest: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "power_crown",
+    "name": "Power Crown: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "power_sun",
+    "name": "Power Sun",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "queen_of_the_sun",
+    "name": "Queen of the Sun",
+    "genre": "slot",
+    "rtp": "95.77",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "rio_gems",
+    "name": "Rio Gems",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "rocket_wins",
+    "name": "Rocket Wins",
+    "genre": "slot",
+    "rtp": "95.60",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "royal_coins_2",
+    "name": "Royal Coins 2: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "royal_coins",
+    "name": "Royal Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "royal_express",
+    "name": "Royal Express: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.62",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "royal_fort",
+    "name": "Royal Fortunator: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "royal_joker",
+    "name": "Royal Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.62",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "ruby_hit",
+    "name": "Ruby Hit: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.55",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "scarab_boost",
+    "name": "Scarab Boost",
+    "genre": "slot",
+    "rtp": "95.89",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "scarab_riches",
+    "name": "Scarab Riches",
+    "genre": "slot",
+    "rtp": "95.47",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "scarab_temple",
+    "name": "Scarab Temple",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sherwood_coins",
+    "name": "Sherwood Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sky_coins",
+    "name": "Sky Coins",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sky_pearls",
+    "name": "Sky Pearls",
+    "genre": "slot",
+    "rtp": "95.72",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "solar_queen",
+    "name": "Solar Queen",
+    "genre": "slot",
+    "rtp": "95.78",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "solar_temple",
+    "name": "Solar Temple",
+    "genre": "slot",
+    "rtp": "95.22",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "space_coins",
+    "name": "Space Coins",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "spirit_of_egypt",
+    "name": "Spirit of Egypt: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.43",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sticky_piggy",
+    "name": "Sticky Piggy",
+    "genre": "slot",
+    "rtp": "95.50",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sun_of_egypt",
+    "name": "Sun of Egypt",
+    "genre": "slot",
+    "rtp": "95.46",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sun_of_egypt_2",
+    "name": "Sun of Egypt 2",
+    "genre": "slot",
+    "rtp": "95.48",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sun_of_egypt_3",
+    "name": "Sun of Egypt 3",
+    "genre": "slot",
+    "rtp": "95.58",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sun_of_egypt_4",
+    "name": "Sun of Egypt 4",
+    "genre": "slot",
+    "rtp": "95.47",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sunlight_princess",
+    "name": "Sunlight Princess",
+    "genre": "slot",
+    "rtp": "95.24",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "sunny_fruits_2",
+    "name": "Sunny Fruits 2: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_china_pots",
+    "name": "Super China Pots",
+    "genre": "slot",
+    "rtp": "95.71",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_hot_chilli",
+    "name": "Super Hot Chilli",
+    "genre": "slot",
+    "rtp": "95.58",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_pink_joker",
+    "name": "Super Pink Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.74",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_sticky_piggy",
+    "name": "Super Sticky Piggy",
+    "genre": "slot",
+    "rtp": "95.64",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_sunny_fruits",
+    "name": "Super Sunny Fruits",
+    "genre": "slot",
+    "rtp": "95.70",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "scharged_clovers",
+    "name": "Supercharged Clovers: Hold And Win",
+    "genre": "slot",
+    "rtp": "95.78",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "thunder_coins_xxl",
+    "name": "Thunder Coins XXL: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.60",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "thunder_coins",
+    "name": "Thunder Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "thunder_of_olympus",
+    "name": "Thunder of Olympus",
+    "genre": "slot",
+    "rtp": "95.58",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "tiger_gems",
+    "name": "Tiger Gems",
+    "genre": "slot",
+    "rtp": "95.57",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "tiger_jungle",
+    "name": "Tiger Jungle",
+    "genre": "slot",
+    "rtp": "95.78",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "tiger_stone",
+    "name": "Tiger Stone",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "tigers_gold",
+    "name": "Tigers Gold",
+    "genre": "slot",
+    "rtp": "95.05",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "treasures_fire",
+    "name": "Treasures of Fire: Scatter Pays",
+    "genre": "slot",
+    "rtp": "95.51",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "wolf_land",
+    "name": "Wolf Land: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "wolf_night",
+    "name": "Wolf Night",
+    "genre": "slot",
+    "rtp": "95.63",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "wolf_power_mega",
+    "name": "Wolf Power Megaways",
+    "genre": "slot",
+    "rtp": "96",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "wolf_power",
+    "name": "Wolf Power: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.04",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "wolf_saga",
+    "name": "Wolf Saga",
+    "genre": "slot",
+    "rtp": "96.00",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "rockin_joker",
+    "name": "Rockin'Joker: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.5",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "coin_volcano_2",
+    "name": "Coin Volcano 2",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "magic_clovers",
+    "name": "Magic Clovers",
+    "genre": "slot",
+    "rtp": "95.63",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "3_royal_coins",
+    "name": "3 Royal Coins: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.36",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "25_cookies",
+    "name": "25 Cookies: Hit The Bonus",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "charge_clovers",
+    "name": "Charge the Clovers: Hit The Bonus",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lucky_penny_2",
+    "name": "Lucky Penny 2",
+    "genre": "slot",
+    "rtp": "95.66",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "redwing",
+    "name": "RedWing",
+    "genre": "сrash",
+    "rtp": "97",
+    "volatility": "medium",
+    "provider": "BNG"
+  },
+  {
+    "id": "super_hot_teapots",
+    "name": "Super Hot Teapots",
+    "genre": "slot",
+    "rtp": "95.72",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "crown_strike",
+    "name": "Crown Strike: Hold and Win",
+    "genre": "slot",
+    "rtp": "95.7",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "power_sun_xxl",
+    "name": "Power Sun XXL",
+    "genre": "slot",
+    "rtp": "95.75",
+    "volatility": "medium-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "egypt_fire_2",
+    "name": "Egypt Fire 2",
+    "genre": "slot",
+    "rtp": "95.76",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "lava_coins_2",
+    "name": "Lava Coins 2",
+    "genre": "slot",
+    "rtp": "95.67",
+    "volatility": "high",
+    "provider": "BNG"
+  },
+  {
+    "id": "golden_penny",
+    "name": "Golden Penny x1000",
+    "genre": "slot",
+    "rtp": "95.68",
+    "volatility": "very-high",
+    "provider": "BNG"
+  },
+  {
+    "id": "egypt_power_x1000",
+    "name": "Egypt Power x1000",
+    "genre": "slot",
+    "rtp": "95.73",
+    "volatility": "very-high",
+    "provider": "BNG"
+  }
+]

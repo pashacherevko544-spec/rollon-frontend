@@ -1,0 +1,7432 @@
+[
+  {
+    "id": "pp_crack_the_egg",
+    "name": "Crack the Egg",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_thunder_win_hold_and_win",
+    "name": "Thunder Win Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_hot_fortune_hold_and_win",
+    "name": "Hot Fortune Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_coin_charm_hold_and_win",
+    "name": "Coin Charm Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_rich_joker_hold_and_win",
+    "name": "Rich Joker Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_lucky_trio_pots_hold_and_win",
+    "name": "Lucky Trio Pots Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bt_joker_power_spin_hold_and_win",
+    "name": "Joker Power Spin Hold and Win",
+    "provider": "betora",
+    "provider_name": "Betora",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_magic_mummy_megaways",
+    "name": "Magic Mummy Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_blitz",
+    "name": "Coin Blitz",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunder_express",
+    "name": "Thunder Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_joker_coin_link",
+    "name": "Joker Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trump_it_coin_link_xmas",
+    "name": "Trump It Coin Link Xmas",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_xmas_coins_2_ultimate",
+    "name": "Xmas Coins 2: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_power_link",
+    "name": "Olympus Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_cash_coins",
+    "name": "Trinity Cash Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_electric_coins_ultimate",
+    "name": "Electric Coins: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_mania_hot_bonus",
+    "name": "Olympus Mania: Hot Bonus",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fireball_link_cash_up",
+    "name": "Fireball Link: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.22",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_atomic_coins",
+    "name": "Atomic Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_coins_ultimate",
+    "name": "Inferno Coins: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_doge_coin_link",
+    "name": "Doge Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_egypt_link",
+    "name": "Trinity Egypt Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fireball_volcanoes_trinity_series",
+    "name": "Fireball Volcanoes: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_coin_cash_up",
+    "name": "Power Coin: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.22",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond_2",
+    "name": "Striking Diamond 2",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_power_link",
+    "name": "Trinity Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_electro_coin_link",
+    "name": "Electro Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_coin_link",
+    "name": "Olympus Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_pharaoh_link",
+    "name": "Trinity Pharaoh Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_lucky_bacon_trinity_series",
+    "name": "Lucky Bacon: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_titan_power_wild",
+    "name": "Titan Power Wild",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_charming_coin_link",
+    "name": "Charming Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_diamond_link",
+    "name": "Trinity Diamond Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_coin_trinity_series",
+    "name": "Power Coin: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trump_it_coin_link",
+    "name": "Trump It Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_zeus_power_link",
+    "name": "Zeus Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_hercules_power_wild",
+    "name": "Hercules Power Wild",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_rising_riches_link",
+    "name": "Rising Riches Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_super_santa_link",
+    "name": "Super Santa Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_gold_link",
+    "name": "Trinity Gold Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_coin_link",
+    "name": "Striking Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_boost_buffalo_express",
+    "name": "Power Boost: Buffalo Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thor_power_link",
+    "name": "Thor Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunderbolt_coin_link",
+    "name": "Thunderbolt Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_gorilla_boost",
+    "name": "Coin Rush: Gorilla Boost",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunder_wolf_link",
+    "name": "Thunder Wolf Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_moon_of_egypt",
+    "name": "Moon Of Egypt",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_boost_money_express",
+    "name": "Power Boost: Money Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond_link",
+    "name": "Striking Diamond Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_9_dragon_balls_cash_up",
+    "name": "9 Dragon Balls: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_fireballs_2",
+    "name": "Inferno Fireballs 2",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_egypt_links",
+    "name": "Egypt Links",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_almighty_hot_wins",
+    "name": "Almighty Hot Wins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fortune_coin_link",
+    "name": "Fortune Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_mexican_coins_cash_up",
+    "name": "Mexican Coins: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_egypt_coin_link",
+    "name": "Egypt Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_deluxe_fruits_100",
+    "name": "Deluxe Fruits 100",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_midas_links",
+    "name": "Midas Links",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_elephant_strike",
+    "name": "Coin Rush: Elephant Strike",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_mega_rich_fruits",
+    "name": "Mega Rich Fruits",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond",
+    "name": "Striking Diamond",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_cash_busters",
+    "name": "Cash Busters",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_devils_diamond_rush",
+    "name": "Devil's Diamond Rush",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_arctic_coins",
+    "name": "Arctic Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_rhino",
+    "name": "Coin Rush: Rhino",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_fireballs",
+    "name": "Inferno Fireballs",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_vegas_starstruck",
+    "name": "Vegas Starstruck",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_xmas_coins",
+    "name": "XMAS Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_777_respins",
+    "name": "Inferno 777 Respins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale_100",
+    "name": "Fruits Royale 100",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_moon_of_ra",
+    "name": "Moon Of Ra",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale_5",
+    "name": "Fruits Royale 5",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_book_of_midas",
+    "name": "Book Of Midas",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale",
+    "name": "Fruits Royale",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_city_pop_hawaii",
+    "name": "City Pop Hawaii",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_pop_and_drop",
+    "name": "Pop&Drop",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_into_the_jungle_bonus_buy",
+    "name": "Into The Jungle Bonus Buy",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_tropical_gold",
+    "name": "Tropical Gold",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_lil_santa_bonus_buy",
+    "name": "Lil' Santa Bonus Buy",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_sugar_drop_xmas",
+    "name": "Sugar Drop XMAS",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_sugar_drop",
+    "name": "Sugar Drop",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_bonanza_billion_xtreme",
+    "name": "Bonanza Billion Xtreme",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.97",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "moreenergycoins",
+    "name": "More Energy Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aviamasters_2",
+    "name": "Aviamasters 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_football_plinko",
+    "name": "Football Plinko",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x5_patrick_hold_the_spin",
+    "name": "3x5 Patrick: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_golden_avalon_hold_and_win",
+    "name": "Golden Avalon Hold and Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_vortex_2",
+    "name": "Vortex 2",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "4_pots_of_egypt",
+    "name": "4 Pots Of Egypt",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.69",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_rocket_eruption_triple_blast",
+    "name": "Rocket Eruption: Triple Blast",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.57",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_3_pots_of_luck",
+    "name": "3 Pots of Luck",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "golden_penny",
+    "name": "Golden Penny x1000",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_panda_fortune_rush",
+    "name": "Panda Fortune Rush",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x3_royal_piggy_hold_the_spin",
+    "name": "3x3 Royal Piggy: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_heart_of_tiki",
+    "name": "Heart Of Tiki",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_jackpot_nights",
+    "name": "Jackpot Nights",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "flaming_bells",
+    "name": "Flaming Bells: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.78",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_only_diamonds",
+    "name": "Only Diamonds",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fortune_red_packets",
+    "name": "Fortune Red Packets",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.4",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_sic_bo",
+    "name": "Sic Bo",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.22",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "egypt_power_x1000",
+    "name": "Egypt Power x1000",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.73",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_always_up_x10000",
+    "name": "Always Up! x10000",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "lava_coins_2",
+    "name": "Lava Coins 2",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.67",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_winter_trophy_hold_and_win",
+    "name": "Winter Trophy Hold and Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_vortex_safari",
+    "name": "Vortex Safari",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_joker_x_love",
+    "name": "Joker X Love",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.23",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_3_royal_bags",
+    "name": "3 Royal Bags",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "egypt_fire_2",
+    "name": "Egypt Fire 2",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_surrender_multihand_blackjack",
+    "name": "Surrender Multihand Blackjack",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.48",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_cock_a_doodle_cash",
+    "name": "Cock-a-Doodle Cash",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_9_thunderbolts",
+    "name": "9 Thunderbolts",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_coin_surge",
+    "name": "Coin Surge",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.26",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mystery_heist",
+    "name": "Mystery Heist",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x5_joker_hold_the_spin",
+    "name": "3x5 Joker: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_auto_roulette_live",
+    "name": "Auto Roulette LIVE",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_jewel_boom_super_drop",
+    "name": "Jewel Boom Super Drop",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_blazing_auto_roulette_live",
+    "name": "Blazing Auto Roulette LIVE",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_treasure_explorer",
+    "name": "Treasure Explorer",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_blazing_fire_pots_hold_and_spin",
+    "name": "Blazing Fire Pots Hold & Spin",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.11",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_express",
+    "name": "Coin Express",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.69",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_hot_teapots",
+    "name": "3 Hot Teapots",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "lion_gems_3pots",
+    "name": "Lion Gems 3 Pots: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3xcatch",
+    "name": "3x Catch",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "king_of_the_sky",
+    "name": "King of the Sky: Hit the Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "royal_express",
+    "name": "Royal Express: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.62",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "charge_clovers",
+    "name": "Charge the Clovers: Hit The Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "25_cookies",
+    "name": "25 Cookies: Hit the Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_lightning_rush",
+    "name": "Lightning Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_joker_catcher",
+    "name": "Joker Catcher",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_chicken_route",
+    "name": "Chicken Route",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.27",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_ufo_pyramids",
+    "name": "UFO Pyramids",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "power_sun_xxl",
+    "name": "Power Sun XXL",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_joker_bling",
+    "name": "Joker Bling",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_christmas_workshop_hold_the_spin",
+    "name": "Christmas Workshop: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_totally_hot",
+    "name": "Totally Hot",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.21",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "super_hot_teapots",
+    "name": "Super Hot Teapots",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.72",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "crown_strike",
+    "name": "Crown Strike: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_tuts_legacy",
+    "name": "Tut's Legacy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.27",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aviamasters_x_mas",
+    "name": "Aviamasters X-mas",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_dragons_money",
+    "name": "Dragons Money",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "sun_of_egypt_5",
+    "name": "Sun of Egypt 5",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_open_it",
+    "name": "Open It",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hot_chilli_bells_100",
+    "name": "Hot Chilli Bells 100",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_divine_queen_heart_of_ice",
+    "name": "Divine Queen Heart of Ice",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_starlight_coins",
+    "name": "Starlight Coins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_coin_win_2_hold_the_spin",
+    "name": "Coin Win 2: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_million",
+    "name": "Wild Million",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_aviajet",
+    "name": "Aviajet",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_cashin_reels",
+    "name": "Cashin’ Reels",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_star_trek_next_gen",
+    "name": "Star Trek The Next Generation",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.46",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "lucky_penny_2",
+    "name": "Lucky Penny 2",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_spooky_coin_hold_the_spin",
+    "name": "Spooky Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_golden_paw_hold_and_win",
+    "name": "Golden Paw Hold And Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_balloon_doggo",
+    "name": "Balloon Doggo",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_frozen_fruit",
+    "name": "Frozen Fruit",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_rolling_wild",
+    "name": "Rolling Wild",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_wick",
+    "name": "Wild Wick",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.35",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_tornado",
+    "name": "Coin Tornado",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.69",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "forge_of_vulcan",
+    "name": "Forge of Vulcan",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.64",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_chillies_joker",
+    "name": "3 Chillies Joker",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.8",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "double_joker_fever",
+    "name": "Double Joker: Fever",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "96.39",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_gates_of_pyramid",
+    "name": "3 Gates of Pyramid",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "94.62",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "zeus_power",
+    "name": "Zeus Power",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "94.62",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_merge_up_2",
+    "name": "Merge Up 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_piggy_inferno",
+    "name": "Piggy Inferno",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_burning_chilli_243",
+    "name": "Burning Chilli 243",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_only_coins_express",
+    "name": "Only Coins Express",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_9_jalapenos",
+    "name": "9 Jalapenos",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "magic_clovers",
+    "name": "Magic Clovers",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_volcano_2",
+    "name": "Coin Volcano 2",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_royal_coins",
+    "name": "3 Royal Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.36",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "rockin_joker",
+    "name": "Rockin'Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fiesta_clusters",
+    "name": "Fiesta Clusters",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_oasis_poker",
+    "name": "Oasis Poker",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.96",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "4_pots_riches",
+    "name": "4 Pots Riches: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "maya_lock",
+    "name": "Maya Lock",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_plinko_2_halloween",
+    "name": "Plinko 2 Halloween",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_face_off",
+    "name": "Face Off",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.97",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_clucking_hell",
+    "name": "Clucking Hell",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.32",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_always_up",
+    "name": "Always Up!",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_yommi_rush",
+    "name": "Yommi Rush",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.32",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_tiger_2",
+    "name": "Wild Tiger 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_lager_x9990",
+    "name": "Lucky Lager X9990",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_dash_o_cash",
+    "name": "Dash O’Cash",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_coin_dazzle",
+    "name": "Coin Dazzle",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_jack_o_wild",
+    "name": "Jack O'Wild",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_panda_bao",
+    "name": "Panda Bao",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_mysteco",
+    "name": "Mysteco",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "wheel",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_tapinata",
+    "name": "Tapinata",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.4",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_rings_of_olympus",
+    "name": "Rings Of Olympus",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.34",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_jewel_clicker",
+    "name": "Jewel Clicker",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_dice_thrice",
+    "name": "Dice Thrice",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.5",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_pumpedx",
+    "name": "Pumped X",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_donny_king",
+    "name": "Donny King",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_crystal_poker",
+    "name": "Crystal Poker",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_multiplayer_mines",
+    "name": "Multiplayer Mines",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_book_of_mines",
+    "name": "Book of Mines",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_1tap_mines",
+    "name": "1Tap Mines",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_trading_dice",
+    "name": "Trading Dice",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_vortex",
+    "name": "Vortex",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.34",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_aero",
+    "name": "Aero",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_bubbles",
+    "name": "Bubbles",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_take_my_plinko",
+    "name": "Take My Plinko",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.5",
+    "vol_range": "",
+    "genre": "plinko",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_fast_fielder",
+    "name": "Fast Fielder",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.5",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_wicket_blast",
+    "name": "Wicket Blast",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_rainbows_reach_reals",
+    "name": "Rainbow's Reach Reels",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "95.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_spin_strike",
+    "name": "Spin Strike",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "93.5",
+    "vol_range": "",
+    "genre": "wheel",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_hi_lo",
+    "name": "HiLo",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_legend_hunt",
+    "name": "Legend Hunt",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.23",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_escape_the_lost_world",
+    "name": "Jurassic Expedition Treasure Trackers",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.11",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_fruit_towers",
+    "name": "Fruit Towers",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "tower",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_whispering_pixie_wilds",
+    "name": "Whispering Pixie Wilds",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.37",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_double_roll",
+    "name": "Double Roll",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "93.5",
+    "vol_range": "",
+    "genre": "wheel",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_giga_classics",
+    "name": "Giga Classics",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.4",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_dogs_street",
+    "name": "Dogs' Street",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_cricket_royale",
+    "name": "Cricket Royale",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_magic_keno",
+    "name": "Magic Keno",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "keno",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_space_race",
+    "name": "Space Race",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_turbo_mines",
+    "name": "Turbo Mines",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_bounty_hunter",
+    "name": "Bounty Hunter",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_turbo_plinko",
+    "name": "Turbo Plinko",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "plinko",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_totem_unleashed",
+    "name": "Totem Unleashed",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "95.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_save_the_princess",
+    "name": "Save the Princess",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "tower",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_wild_riches",
+    "name": "Wild Riches Outlaw Jackpot",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.35",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_javelinx",
+    "name": "JavelinX",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "wheel",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_spell_of_wealth",
+    "name": "Spell of Wealth",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.27",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_crash_x_football_edition",
+    "name": "CrashX Football Edition",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_safari_jackpot",
+    "name": "Safari Jackpot",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_bayraktar",
+    "name": "Bayraktar",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_monkey_wu",
+    "name": "Monkey Wu",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "95.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_limbo_rider",
+    "name": "Limbo Rider",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_aphrodites_charm",
+    "name": "Aphrodites Charm",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_ball_and_ball",
+    "name": "Ball&Ball",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_lucky_rod",
+    "name": "Lucky Rod",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.23",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_fury_stairs",
+    "name": "Fury Stairs",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "tower",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_treasure_of_the_caribbean",
+    "name": "Treasure of the Caribbean",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_hamsta",
+    "name": "Hamsta",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "tower",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_sweet_jelly",
+    "name": "Sweet Jelly",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.83",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_towers",
+    "name": "Towers",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "tower",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_tut_bonanza",
+    "name": "Sands Of Tut",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.24",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_neko",
+    "name": "Neko",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "wheel",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_mystical_duel",
+    "name": "Shaolin Spellcaster",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.55",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_mines",
+    "name": "Mines",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "mine",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_dynasty_magic",
+    "name": "Dynasty Magic",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "95.61",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_dice_twice",
+    "name": "Dice Twice",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "97.5",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "sp_bet_street_racing",
+    "name": "Bet Street Racing",
+    "provider": "spinocchio",
+    "provider_name": "Spinocchio",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "tg_crash_x",
+    "name": "CrashX",
+    "provider": "turbogames",
+    "provider_name": "Turbogames",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_strike_2",
+    "name": "Coin Strike 2: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.65",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "super_pink_joker",
+    "name": "Super Pink Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_bonanza_trillion",
+    "name": "Bonanza Trillion",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fortune_spin",
+    "name": "Fortune Spin",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_classic_multihand_blackjack",
+    "name": "Classic Multihand Blackjack",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.4",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_crystal_clusters",
+    "name": "Crystal Clusters",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_joker_vs_joker",
+    "name": "Joker vs Joker",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_grand_mustang",
+    "name": "Grand Mustang",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_big_tuna_bonanza",
+    "name": "Big Tuna Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_infinity_pull",
+    "name": "Infinity Pull",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.02",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_big_bucks_saloon",
+    "name": "Big Bucks Saloon",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_cats_soup",
+    "name": "Cats Soup",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_top_card_trumps",
+    "name": "Top Card Trumps",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.32",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_expanding_wins",
+    "name": "Expanding Wins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_3_fortune_pots",
+    "name": "3 Fortune Pots",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wild_classic",
+    "name": "Wild Classic",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_lucky_shamrock_bingo",
+    "name": "Lucky Shamrock Bingo",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_multihand_blackjack_vip",
+    "name": "Multihand Blackjack VIP",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.51",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_lucky_hot_coins",
+    "name": "Lucky Hot Coins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_princess_x1000",
+    "name": "Coin Princess x1000",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.72",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "super_china_pots",
+    "name": "Super China Pots",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.71",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "space_coins",
+    "name": "Space Coins",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.68",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "thunder_coins_xxl",
+    "name": "Thunder Coins XXL: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_adventures",
+    "name": "Adventures",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_sunny_coin_10000_hold_the_spin",
+    "name": "Sunny Coin 10000: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x5_hold_the_spin",
+    "name": "3x5 Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_super_hot_chillies",
+    "name": "3 Super Hot Chillies",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "dancing_joker",
+    "name": "Dancing Joker",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.71",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lady_lucky_gun",
+    "name": "Lady Lucky Gun",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.13",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_tramp_day_trueways",
+    "name": "Tramp Day TRUEWAYS",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_penalty_duel",
+    "name": "Penalty Duel",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_multihand_blackjack_pro_2",
+    "name": "Multihand Blackjack Pro 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.4",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dragon_queen_megaways",
+    "name": "Dragon Queen MEGAWAYS",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_three_card_rummy",
+    "name": "Three Card Rummy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.07",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_live_roulette_french_vip",
+    "name": "Live Roulette French VIP",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_juicy_sevens_jackpot",
+    "name": "Juicy Sevens Jackpot",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_live_roulette_french",
+    "name": "Live Roulette French",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_panda_dinero",
+    "name": "Panda Dinero",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bingo_destiny",
+    "name": "Bingo Destiny",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fortune_smash",
+    "name": "Fortune Smash",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_40_chilli_fruits_superior",
+    "name": "40 Chilli Fruits Superior",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.23",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_loki_loot",
+    "name": "Loki Loot",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_football_plinko",
+    "name": "Football Plinko",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mystery_garden",
+    "name": "Mystery Garden",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_golden_pinata_hold_and_win",
+    "name": "Golden Pinata Hold and Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_balloon_mania",
+    "name": "Balloon Mania",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_olympus_trueways",
+    "name": "Olympus Trueways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_lu",
+    "name": "Lucky Lu",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_blackbeards_bounty",
+    "name": "Blackbeards Bounty",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_retro_trader",
+    "name": "Retro Trader",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_doomsday_saloon",
+    "name": "Doomsday Saloon",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_sugar_mix",
+    "name": "Sugar Mix",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.37",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_arrow_slot",
+    "name": "Arrow Slot",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.33",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_zeus_goes_wild",
+    "name": "Zeus Goes Wild",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_clusters",
+    "name": "Wild Clusters",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.71",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_treasure_of_anubis",
+    "name": "Treasure Of Anubis",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.13",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fortune_bells",
+    "name": "Fortune Bells",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_robospin",
+    "name": "Robospin",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztecs_claw_wild_dice",
+    "name": "Aztec's Claw Wild Dice",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_jungle_queen",
+    "name": "Jungle Queen",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_alice_wonderluck",
+    "name": "Alice WonderLuck",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_card_gang",
+    "name": "Wild Card Gang",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_all_star_fruits",
+    "name": "All-Star Fruits",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_jokers_million",
+    "name": "Jokers Million",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.34",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_winter_fishing_club",
+    "name": "Winter Fishing Club",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.16",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hot_chilli_bells",
+    "name": "Hot Chilli Bells",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_grand_patron",
+    "name": "Grand Patron",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.67",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_disco_party",
+    "name": "Disco Party",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_sakura_riches_60",
+    "name": "Sakura Riches 60",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_plinko_2",
+    "name": "Plinko 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_ducky",
+    "name": "Lucky Ducky",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_tile_master",
+    "name": "Tile Master",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.36",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_moon_thieves",
+    "name": "Wild Moon Thieves",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_golden_pride",
+    "name": "Golden Pride",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_catdiana",
+    "name": "Catdiana",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dice_clash",
+    "name": "Dice Clash",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.05",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_snoop_dogg_dollars",
+    "name": "Snoop Dogg Dollars",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_forgotten",
+    "name": "Forgotten",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.89",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_rotating_element",
+    "name": "Rotating Element",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.19",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_haunted_reels",
+    "name": "Haunted Reels",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_carnival_bonanza",
+    "name": "Carnival Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fortuna_trueways",
+    "name": "Fortuna TRUEWAYS",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_voodoo_people",
+    "name": "Voodoo People",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.88",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_top_eagle",
+    "name": "Top Eagle",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_royal_fruits_multilines",
+    "name": "Royal Fruits MultiLines",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_hot_sevens_fruit_fiesta",
+    "name": "Hot 7s Fruit Fiesta",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_krakens_hunger",
+    "name": "Kraken's Hunger",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_coin_blaze",
+    "name": "Coin Blaze",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_west_trueways",
+    "name": "Wild West TRUEWAYS",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.84",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bingo_planets",
+    "name": "Bingo Planets",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_train_to_rio_grande",
+    "name": "Train to Rio Grande",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_blaze_of_riches",
+    "name": "Blaze of Riches",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mine_gems",
+    "name": "Mine Gems",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "98.4",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bacons_bank",
+    "name": "Bacons Bank",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_street_power",
+    "name": "Street Power",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_triple_strike_poker",
+    "name": "Triple Strike Poker",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.99",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_catch_the_gold_hold_and_win",
+    "name": "Catch the Gold Hold and Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fiery_fruits_frenzy",
+    "name": "Fiery Fruits Frenzy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gold_magnate",
+    "name": "Gold Magnate",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_tempest_spins_hundred",
+    "name": "Tempest Spins 100",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_secret_bar_multidice_x",
+    "name": "Secret Bar Multidice X",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.22",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_loot_n_load",
+    "name": "Loot n Load",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.11",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aviamasters",
+    "name": "Aviamasters",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_sevens_fruit_fiesta",
+    "name": "7s Fruit Fiesta",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_alien_fruits_2",
+    "name": "Alien Fruits 2",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fafnirs_key",
+    "name": "Fafnir's Key",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dragon_age_hold_and_win",
+    "name": "Dragon Age Hold & Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_3_numbers",
+    "name": "3 Numbers",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fishing_club",
+    "name": "Fishing Club",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.16",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_piedra_del_sol_deluxe",
+    "name": "Piedra Del Sol Deluxe",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gold_of_minos",
+    "name": "Gold of Minos",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_plinko",
+    "name": "Plinko",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_capymania_yellow",
+    "name": "Capymania Yellow",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_seven_and_fruits_rush",
+    "name": "7 & Fruits Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_capymania_green",
+    "name": "Capymania Green",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_caribbean_club_poker",
+    "name": "Caribbean Club Poker",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.45",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_capymania_orange",
+    "name": "Capymania Orange",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_lord_of_the_keys",
+    "name": "Lord of the Keys",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_panda_luck",
+    "name": "Panda Luck",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_european_blackjack_multihand",
+    "name": "European Blackjack Multihand",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.37",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_chicken_rush",
+    "name": "Chicken Rush",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_eve_of_gifts",
+    "name": "Eve of Gifts",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_oof_the_goldmine_planet",
+    "name": "OOF The Goldmine Planet",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_hook_the_cash",
+    "name": "Hook the Cash",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_dragon_multidice_x",
+    "name": "Lucky Dragon MultiDice X",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_piggy_trust",
+    "name": "Piggy Trust",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_three_kings_scratch",
+    "name": "Three Kings Scratch",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_tap_the_pot",
+    "name": "Tap the Pot",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_diamond_of_jungle",
+    "name": "Diamond of Jungle",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_blackjacksurrender",
+    "name": "Blackjack Surrender",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.66",
+    "vol_range": "",
+    "genre": "blackjack",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dragons_crash",
+    "name": "Dragons Crash",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_10000_x_rush",
+    "name": "10000x Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_8_merge_up",
+    "name": "Lucky 8 Merge Up",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_infernal_fruits",
+    "name": "Infernal Fruits",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_popzen",
+    "name": "Pop Zen",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wild_bingo",
+    "name": "Wild Bingo",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztec_clusters",
+    "name": "Aztec Clusters",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_2500_x_rush",
+    "name": "2500 x Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.35",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_heart",
+    "name": "Wild Heart",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.92",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_viking_games",
+    "name": "Viking Games",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.38",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_god_of_wealth_hold_and_win",
+    "name": "God of Wealth Hold and Win",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.24",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_premium_european_blackjack",
+    "name": "Premium European Blackjack",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.58",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_keepers_of_the_secret",
+    "name": "Keepers Of The Secret",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_1000_x_rush",
+    "name": "1000 x Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.35",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_tiger",
+    "name": "Wild Tiger",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.11",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_double_steam",
+    "name": "Double Steam",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hottest_666",
+    "name": "Hottest 666",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_4_numbers",
+    "name": "4 Numbers",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gemza",
+    "name": "Gemza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_slotcade",
+    "name": "Slotcade",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_ice_scratch_gold",
+    "name": "Ice Scratch Gold",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_shake_and_win",
+    "name": "Shake and Win",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_ice_scratch_silver",
+    "name": "Ice Scratch Silver",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_mini_roulette",
+    "name": "Mini Roulette",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_ice_scratch_bronze",
+    "name": "Ice Scratch Bronze",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_first_of_olympians",
+    "name": "First of Olympians",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_slot_machine",
+    "name": "Slot Machine",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_mission_vegas",
+    "name": "Mission: Vegas",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gift_x",
+    "name": "Gift X",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_mystery_stones",
+    "name": "Mystery Stones",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.97",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_tramp_day",
+    "name": "Tramp Day",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_5000_x_rush",
+    "name": "5000 x Rush",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "96.4",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_scratch_alpaca_silver",
+    "name": "Scratch Alpaca Silver",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_air_boss",
+    "name": "Air Boss",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_scratch_alpaca_gold",
+    "name": "Scratch Alpaca Gold",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_juicy_wheel",
+    "name": "Juicy Wheel",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_scratch_alpaca_bronze",
+    "name": "Scratch Alpaca Bronze",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "90.0",
+    "vol_range": "",
+    "genre": "scratch",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_single_deck_blackjack",
+    "name": "Single Deck Blackjack",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.76",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_monster_hunt",
+    "name": "Monster Hunt",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.65",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_spirits_the_prairies",
+    "name": "Spirits of the Prairies",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_merge_up",
+    "name": "Merge Up",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_multihand_blackjack",
+    "name": "Multihand BlackJack",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_book_of_panda",
+    "name": "Book of Panda Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.95",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_totem_mystique",
+    "name": "Totem Mystique",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mummys_gold",
+    "name": "Mummy's Gold",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_live_roulette_european",
+    "name": "Live Roulette European",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_elvis_frog_trueways",
+    "name": "Elvis Frog TRUEWAYS",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.79",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_live_roulette_european_vip",
+    "name": "Live Roulette European VIP",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "live",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gemhalla",
+    "name": "Gemhalla",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_urban_neon",
+    "name": "Urban Neon",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_bone_bonanza",
+    "name": "Bone Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wondereels",
+    "name": "WondeReels",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_farm_bonanza",
+    "name": "Lucky Farm Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_ultra_disco",
+    "name": "Ultra Disco",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.47",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_halloween_bonanza",
+    "name": "Halloween Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_minerz",
+    "name": "Minerz",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dice_bonanza",
+    "name": "Dice Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_coin_charge",
+    "name": "Coin Charge",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_clover_bonanza",
+    "name": "Clover Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wizard_of_the_wild",
+    "name": "Wizard of the Wild",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_bonanza_billion",
+    "name": "Bonanza Billion",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_casino_holdem",
+    "name": "Vegas Hold’em",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.84",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_beer_bonanza",
+    "name": "Beer Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_thor_turbo_power",
+    "name": "Thor turbo power",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztec_magic_bonanza",
+    "name": "Aztec Magic Bonanza",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_texas_holdem",
+    "name": "Texas Hold'em",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.75",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_alien_fruits",
+    "name": "Alien Fruits",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_miss_gypsy",
+    "name": "Miss Gypsy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_scratch_dice",
+    "name": "Scratch Dice",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.2",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_dragons_element_deluxe",
+    "name": "Dragons Element Deluxe",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_rocket_dice_xy",
+    "name": "Rocket Dice XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wild_spin_deluxe",
+    "name": "Wild Spin Deluxe",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_rocket_dice",
+    "name": "Rocket Dice",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "dice",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_2_ways_royal",
+    "name": "2 Ways Royal",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.54",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_plinko_xy",
+    "name": "Plinko XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_books_of_giza",
+    "name": "Books of Giza",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_plinko",
+    "name": "Plinko",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bonus_deuces_wild",
+    "name": "Bonus Deuces Wild",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.64",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_multihand_blackjack_pro",
+    "name": "Multihand Blackjack Pro",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.23",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_catch_the_leprechaun",
+    "name": "Catch the Leprechaun",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_multihand_blackjack",
+    "name": "Multihand Blackjack",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.23",
+    "vol_range": "",
+    "genre": "cards",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_pirates_legacy",
+    "name": "Pirate's Legacy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_minesweeper_xy",
+    "name": "Minesweeper XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.6",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_the_big_score",
+    "name": "The Big Score",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_minesweeper",
+    "name": "Minesweeper",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.6",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_aces_and_faces",
+    "name": "Aces and Faces",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.54",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_jogo_do_bicho_simple",
+    "name": "Jogo Do Bicho Simple",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "lottery",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_xmas_avalanche",
+    "name": "XMas Avalanche",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_jogo_do_bicho",
+    "name": "Jogo Do Bicho",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "lottery",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fruit_boost",
+    "name": "Fruit Boost",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_heads_and_tails_xy",
+    "name": "Heads and Tails XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_hallowin",
+    "name": "Hallowin",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_heads_and_tails",
+    "name": "Heads and Tails",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_jacks_or_better",
+    "name": "Jacks or Better",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "99.54",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_french_roulette",
+    "name": "French Roulette",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "roulette",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_extra_gems",
+    "name": "Extra Gems",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_european_roulette",
+    "name": "European Roulette",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "roulette",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_coinfest",
+    "name": "Coinfest",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_easter_plinko",
+    "name": "Easter Plinko",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "99.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_book_of_light",
+    "name": "Book of Light",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_american_roulette",
+    "name": "American Roulette",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.74",
+    "vol_range": "",
+    "genre": "roulette",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_pearls_of_the_ocean",
+    "name": "Pearls of the Ocean",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_space_xy",
+    "name": "Space XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wild_crowns",
+    "name": "Wild Crowns",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_limbo_xy",
+    "name": "Limbo XY",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "casual",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_ways_of_the_gauls",
+    "name": "Ways of the Gauls",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_sweet_rush_megaways",
+    "name": "Sweet Rush Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.69",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_9_dragon_kings",
+    "name": "9 Dragon Kings",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztec_magic_megaways",
+    "name": "Aztec Magic Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.69",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_piedra_del_sol",
+    "name": "Piedra Del Sol",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_book_of_cats_megaways",
+    "name": "Book of Cats Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.95",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_9_gems",
+    "name": "9 Gems",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_savage_buffalo_spirit_megaways",
+    "name": "Savage Buffalo Spirit Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_posh_cats",
+    "name": "Posh Cats",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lady_wolf_moon_megaways",
+    "name": "Lady Wolf Moon Megaways",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.84",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_joker_chase",
+    "name": "Joker Chase",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_potion_spells",
+    "name": "Potion Spells",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_frozen_mirror",
+    "name": "Frozen Mirror",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gangsterz",
+    "name": "Gangsterz",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_diamond_hunt",
+    "name": "Diamond Hunt",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_all_lucky_clovers_100",
+    "name": "All Lucky Clovers 100",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_little_witchy",
+    "name": "Little Witchy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_all_lucky_clovers_40",
+    "name": "All Lucky Clovers 40",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_un_dia_de_muertos",
+    "name": "Un Dia De Muertos",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_all_lucky_clovers_20",
+    "name": "All Lucky Clovers 20",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wild_justice",
+    "name": "Wild Justice",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_all_lucky_clovers_5",
+    "name": "All Lucky Clovers 5",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_leprechauns_coins",
+    "name": "Leprechauns Coins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_big_atlantis_frenzy",
+    "name": "Big Atlantis Frenzy",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.8",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bamboo_grove",
+    "name": "Bamboo Grove",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_journey_flirt",
+    "name": "Journey Flirt",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_guises_of_dracula",
+    "name": "Guises of Dracula",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_maneki_88_fortunes",
+    "name": "Maneki 88 Fortunes",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.38",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_might_of_zeus",
+    "name": "Might of Zeus",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_maneki_88_gold",
+    "name": "Maneki 88 Gold",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_1001_spins",
+    "name": "1001 Spins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_burning_chilli_x",
+    "name": "Burning Chilli X",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_jackpot_lab",
+    "name": "Jackpot Lab",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fruit_million",
+    "name": "Fruit Million",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_yummy_dumplings_hold_the_spin",
+    "name": "Yummy Dumplings: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_lord_of_the_sun",
+    "name": "Lord of the Sun",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dragons_gold_100",
+    "name": "Dragon's Gold 100",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_only_coins",
+    "name": "Only Coins",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_7_hot_fruits",
+    "name": "7 & Hot Fruits",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dice_million",
+    "name": "Dice Million",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.23",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_tiger_pot_hold_the_spin",
+    "name": "Tiger Pot: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_european_roulette",
+    "name": "European Roulette",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "roulette",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_road_2_riches",
+    "name": "Road 2 Riches",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.24",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_patrics_luck_hold_the_spin",
+    "name": "Patrick's Luck Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wealth_of_wisdom",
+    "name": "Wealth of Wisdom",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_forty_fruity_million",
+    "name": "Forty Fruity Million",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_billie_wild",
+    "name": "Billie Wild",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_dragons_element",
+    "name": "Dragon`s Element",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hit_the_route",
+    "name": "Hit The Route",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_santa_sphere_hold_the_spin",
+    "name": "Santa Sphere: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_hawaiian_night",
+    "name": "Hawaiian Night",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_joker_queen",
+    "name": "Joker Queen",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_book_of_zulu",
+    "name": "Book of Zulu",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_santas_bag",
+    "name": "Santas Bag",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_beast_band",
+    "name": "Beast Band",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.83",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_royal_hot",
+    "name": "Royal Hot",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_miss_cherry_fruits_jackpot_party",
+    "name": "Miss Cherry Fruits Jackpot Party",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.51",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_sticky_coin_hold_the_spin",
+    "name": "Sticky Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_royal_lotus",
+    "name": "Royal Lotus",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gold_rush_johnny_cash",
+    "name": "Gold Rush - Johnny Cash",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.08",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_egypt_sphere_hold_the_spin",
+    "name": "Egypt Sphere: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.05",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_chilli_fiesta",
+    "name": "Chilli Fiesta",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_royal_high_road",
+    "name": "Royal High-Road",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_samba_stars_hold_the_spin",
+    "name": "Samba Stars: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_dynasty_warriors",
+    "name": "Dynasty Warriors",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_easter_heist",
+    "name": "Easter Heist",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.14",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_locky_fruits_hold_the_spin",
+    "name": "Locky Fruits: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_wildspin",
+    "name": "Wild Spin",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aloha_king_elvis",
+    "name": "Aloha King Elvis",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.92",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_olympus_of_luck_hold_the_spin",
+    "name": "Olympus of Luck: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_da_ji_da_li",
+    "name": "Da Ji Da Li",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_elvis_frog_in_vegas",
+    "name": "Elvis Frog in Vegas",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_coin_win_hold_the_spin",
+    "name": "Coin Win: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_the_ancient_four",
+    "name": "The ancient four",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_domnitors_treasure",
+    "name": "Domnitor's Treasure",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_juicy_win_hold_the_spin",
+    "name": "Juicy Win: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_webbyheroes",
+    "name": "Webby Heroes",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_platinum_lightning",
+    "name": "Platinum Lightning",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.29",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_fruit_story_hold_the_spin",
+    "name": "Fruit Story: Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_tripledragon",
+    "name": "Triple Dragon",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_platinum_lightning_deluxe",
+    "name": "Platinum Lightning Deluxe",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.29",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_japanese_coin_hold_the_spin",
+    "name": "Japanese Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fieryplanet",
+    "name": "Fiery Planet",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fantasy_park",
+    "name": "Fantasy Park",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_ultra_luck",
+    "name": "Ultra Luck",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_sakurawind",
+    "name": "Sakura Wind",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_crazy_starter",
+    "name": "Crazy Starter",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_wolf_story",
+    "name": "Wolf Story",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_safariadventures",
+    "name": "Safari Adventures",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wbc_ring_of_riches",
+    "name": "WBC Ring Of Riches",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.48",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_royal_chip",
+    "name": "Royal Chip",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_richywitchy",
+    "name": "Richy Witchy",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mice_magic_wonder_spin",
+    "name": "Mice & Magic Wonder Spin",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.93",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_patricks_coin_hold_the_spin",
+    "name": "Patrick's Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_rhinomania",
+    "name": "Rhino Mania",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_spin_and_spell",
+    "name": "Spin And Spell",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.8",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_ruby_win_hold_the_spin",
+    "name": "Ruby Win: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_princessofbirds",
+    "name": "Princess of Birds",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_miss_cherry_fruits",
+    "name": "Miss Cherry Fruits",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.13",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_sunny_coin_2_hold_the_spin",
+    "name": "Sunny Coin 2: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_powerofposeidon",
+    "name": "Power of Poseidon",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_johnny_cash",
+    "name": "Johnny Cash",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_really_hot_2",
+    "name": "Really Hot 2",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_powerofgods",
+    "name": "Power of Gods",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_fire_lightning",
+    "name": "Fire Lightning",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "93.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_hot_love",
+    "name": "Hot Love",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_pirates_map",
+    "name": "Pirates Map",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_candy_monsta",
+    "name": "Candy Monsta",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.06",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x3_egypt_hold_the_spin",
+    "name": "3X3 Egypt: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_pharaohsempire",
+    "name": "Pharaoh's Empire",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_penny_pelican",
+    "name": "Penny Pelican",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_40_sweet_fruits",
+    "name": "40 Sweet Fruits",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_neonclassic",
+    "name": "Neon Classic",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_crew",
+    "name": "Lucky Crew",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_happy_rabbit_27_ways",
+    "name": "Happy Rabbit 27 Ways",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_monkeysjourney",
+    "name": "Monkey's Journey",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_avalon_the_lost_kingdom",
+    "name": "Avalon: The Lost Kingdom",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_fruit_story",
+    "name": "Fruit Story",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_megadrago",
+    "name": "Mega Drago",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_deep_sea",
+    "name": "Deep Sea",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_dogs_and_tails",
+    "name": "Dogs and Tails",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_magicalwolf",
+    "name": "Magical Wolf",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztec_magic_deluxe",
+    "name": "Aztec Magic Deluxe",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_dice_hold_the_spin",
+    "name": "Dice: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_magicalmirror",
+    "name": "Magical Mirror",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_aztec_magic",
+    "name": "Aztec Magic",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_buffalo_ice_hold_the_spin",
+    "name": "Buffalo Ice Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_luckymoney",
+    "name": "Lucky Money",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_cash_x9990",
+    "name": "Wild Cash x9990",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_bonanza_donut_xmas",
+    "name": "Bonanza Donut Xmas",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_luckydolphin",
+    "name": "Lucky Dolphin",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_cash_dice",
+    "name": "Wild Cash Dice",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_won_hundred",
+    "name": "Won Hundred",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_luckycat",
+    "name": "Lucky Cat",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_four_lucky_diamonds",
+    "name": "Four Lucky Diamonds",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_bonanza_donut",
+    "name": "Bonanza Donut",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_loveis",
+    "name": "Love is",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_four_lucky_clover",
+    "name": "Four Lucky Clover",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_pilot_coin",
+    "name": "Pilot Coin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_legendofatlantis",
+    "name": "Legend of Atlantis",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.01",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_oak",
+    "name": "Lucky Oak",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.17",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x3_27_ways",
+    "name": "3X3 27 Ways",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_junglespin",
+    "name": "Jungle Spin",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_chicago",
+    "name": "Wild Chicago",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_pilot_cup",
+    "name": "Pilot Cup",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_juicyspins",
+    "name": "Juicy Spins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_savage_buffalo_spirit",
+    "name": "Savage Buffalo Spirit",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x3_hell_spin",
+    "name": "3X3 Hell Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_jewelbang",
+    "name": "Jewel Bang",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_dama_muerta",
+    "name": "Lucky Dama Muerta",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.16",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_pilot",
+    "name": "Pilot",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "instantwin",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_jadevalley",
+    "name": "Jade Valley",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lady_wolf_moon",
+    "name": "Lady Wolf Moon",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_3x3_hold_the_spin",
+    "name": "3x3 Hold the Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_greatocean",
+    "name": "Great Ocean",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_dig_dig_digger",
+    "name": "Dig Dig Digger",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.82",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_buffalo_coin",
+    "name": "Buffalo Coin Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fruitysevens",
+    "name": "Fruity Sevens",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_book_of_kemet",
+    "name": "Book of Kemet",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.82",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_book_of_cairo",
+    "name": "Book of Cairo",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_fairyforest",
+    "name": "Fairy Forest",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_book_of_cats",
+    "name": "Book of Cats",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "94.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_really_easter",
+    "name": "Really Easter",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_cleosgold",
+    "name": "Cleo's Gold",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_ladys_clover",
+    "name": "Lucky Lady's Clover",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.31",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_hot_patrick",
+    "name": "Hot Patrick",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_crystalsevens",
+    "name": "Crystal Sevens",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_domnitors_deluxe",
+    "name": "Domnitors Deluxe",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.31",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_gold_mania",
+    "name": "Gold Mania",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_crocoman",
+    "name": "Crocoman",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_brave_viking",
+    "name": "Brave Viking",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.09",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_snow_coin_hold_the_spin",
+    "name": "Snow Coin Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_crazyjelly",
+    "name": "Crazy Jelly",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_princess_of_sky",
+    "name": "Princess of Sky",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_gg_coin_hold_the_spin",
+    "name": "GG Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_cinderella",
+    "name": "Cinderella",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hawaii_cocktails",
+    "name": "Hawaii Cocktails",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_sunny_coin_hold_the_spin",
+    "name": "Sunny Coin: Hold The Spin",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_chinesetigers",
+    "name": "Chinese Tigers",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_hello_easter",
+    "name": "Hello Easter",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_hot_life_buy_bonus",
+    "name": "Hot Life Buy Bonus",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_caishens_gifts",
+    "name": "Caishens gifts",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_desert_treasure",
+    "name": "Desert Treasure",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.95",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_make_money_rich_edition",
+    "name": "Make Money Rich Edition",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bookofegypt",
+    "name": "Book of Egypt",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_domnitors",
+    "name": "Domnitors",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.31",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_40_chilli_fruits_flaming_edition",
+    "name": "40 Chilli Fruits Flaming Edition",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_blackjackvip",
+    "name": "Blackjack Vip",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_cherry_fiesta",
+    "name": "Cherry Fiesta",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_burning_power",
+    "name": "Burning Power",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_blackjack",
+    "name": "Blackjack",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_west_town",
+    "name": "West Town",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.95",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_hot_life",
+    "name": "Hot Life",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.8",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_bisontrail",
+    "name": "Bison Trail",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.99",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_hoonga_boonga",
+    "name": "Hoonga Boonga",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_book_of_pyramids",
+    "name": "Book of Pyramids",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "97.13",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_baccaratvip",
+    "name": "Baccarat Vip",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_lucky_blue",
+    "name": "Lucky Blue",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.96",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_the_hottest_game",
+    "name": "The Hottest Game",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "95.9",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_baccaratmini",
+    "name": "Baccarat Mini",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_book_of_symbols",
+    "name": "Book of Symbols",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.43",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_wild_cash",
+    "name": "Wild Cash",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_baccarat_pro",
+    "name": "Baccarat pro",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "98.0",
+    "vol_range": "",
+    "genre": "table",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_soccermania",
+    "name": "Soccermania",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_banana_bar",
+    "name": "Banana Bar",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.02",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_aztectemple",
+    "name": "Aztec Temple",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.97",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_luck_magic",
+    "name": "Luck & Magic",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_gold_of_maya",
+    "name": "Gold of Maya",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_azteccoins",
+    "name": "Aztec Coins",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_go_wild",
+    "name": "Go Wild",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.35",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_gift_rush",
+    "name": "Gift Rush",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "96.07",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_arabiantales",
+    "name": "Arabian Tales",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "95.03",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_dragons_secret",
+    "name": "Dragon's secret",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "bgaming_mechanical_clover",
+    "name": "Mechanical Clover",
+    "provider": "bgaming",
+    "provider_name": "Bgaming",
+    "rtp": "95.42",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pp_mistressofamazon",
+    "name": "Mistress of Amazon",
+    "provider": "platipus",
+    "provider_name": "Platipus",
+    "rtp": "94.98",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_really_hot",
+    "name": "Really Hot",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_40_chili_fruits",
+    "name": "40 Chilli Fruits",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "gz_joker_splash",
+    "name": "Joker Splash",
+    "provider": "gamzix",
+    "provider_name": "Gamzix",
+    "rtp": "96.26",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "ax_nft_aviatrix",
+    "name": "Aviatrix",
+    "provider": "aviatrix",
+    "provider_name": "Aviatrix",
+    "rtp": "97.0",
+    "vol_range": "",
+    "genre": "crash",
+    "buy_feature": false
+  },
+  {
+    "id": "3_chillies_and_joker",
+    "name": "3 Chillies and Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_luxor_pots",
+    "name": "3 Luxor Pots: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "light_clovers",
+    "name": "Lightning Clovers: Hit the Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.49",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "jingle_coins",
+    "name": "Jingle Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "merry_giftmas",
+    "name": "Merry Giftmas: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pink_joker",
+    "name": "Pink Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.87",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "piggy_power",
+    "name": "Piggy Power: Hit the Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_pirate_barrels",
+    "name": "3 Pirate Barrels: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3carts_of_gold",
+    "name": "3 Carts of Gold: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "scharged_clovers",
+    "name": "Supercharged Clovers: Hold And Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.78",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "thunder_coins",
+    "name": "Thunder Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "energy_joker",
+    "name": "Energy Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.62",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "arizona_heist",
+    "name": "Arizona Heist: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.6",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "sunny_fruits_2",
+    "name": "Sunny Fruits 2: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "clover_charm",
+    "name": "Clover Charm: Hit the Bonus",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3_magic_lamps",
+    "name": "3 Magic Lamps: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3pots_extra",
+    "name": "3 Pot Riches Extra: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "blazing_wins",
+    "name": "Blazing Wins: 5 lines",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "96.31",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "power_crown",
+    "name": "Power Crown: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "sherwood_coins",
+    "name": "Sherwood Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "fire_temple",
+    "name": "Fire Temple: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "diamonds_power",
+    "name": "Diamonds Power: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "fire_coins",
+    "name": "Fire Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.64",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "pearl_ocean",
+    "name": "Pearl Ocean: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.95",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "777sizzling_wins",
+    "name": "777 Sizzling Wins: 5 Lines",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "96.21",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "crown_n_diamonds",
+    "name": "Crown and Diamonds: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.64",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "energy_coins",
+    "name": "Energy Coins: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.74",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "wolf_land",
+    "name": "Wolf Land: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "empire_gold",
+    "name": "Empire Gold: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "3pots_riches",
+    "name": "3 Pots Riches: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.76",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "royal_fort",
+    "name": "Royal Fortunator Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.64",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "buffalo_power_2",
+    "name": "Buffalo Power 2 Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.44",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "coin_strike",
+    "name": "Coin Strike Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "ruby_hit",
+    "name": "Ruby Hit: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.55",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "royal_joker",
+    "name": "Royal Joker: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.62",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "super_sunny_fruits",
+    "name": "Super Sunny Fruits",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.7",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "wolf_power",
+    "name": "Wolf Power",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.04",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "book_of_gold_multichance",
+    "name": "Book of Gold Multichance",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.4",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "legend_of_cleopatra_megaways",
+    "name": "Legend of Cleopatra Megaways",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.84",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "mammoth_peak",
+    "name": "Mammoth Peak: Hold and Win",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "solar_queen",
+    "name": "Solar Queen",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.78",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "treasures_fire",
+    "name": "Treasures of Fire: Scatter Pays",
+    "provider": "bng",
+    "provider_name": "Bng",
+    "rtp": "95.51",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  }
+]

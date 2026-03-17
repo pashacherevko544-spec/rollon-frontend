@@ -1,10 +1,12 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { LangContext, useLangProvider } from './hooks/useLang'
+import { UserContext, useUserProvider } from './hooks/useUser'
 import Layout from './components/Layout'
 import Home from './pages/Home'
 import Slots from './pages/Slots'
 import Bets from './pages/Bets'
 import Profile from './pages/Profile'
+import VIPClub from './pages/VIPClub'
 import Deposit from './pages/Deposit'
 import Withdraw from './pages/Withdraw'
 import Statistics from './pages/Statistics'
@@ -25,16 +27,34 @@ import GameChicken from './pages/GameChicken'
 import GameDragonTower from './pages/GameDragonTower'
 import GamePump from './pages/GamePump'
 import Sports from './pages/Sports'
+import Bonuses from './pages/Bonuses'
+import Markets from './pages/Markets'
+import Ambassadors from './pages/Ambassadors'
 import SupportChat from './pages/SupportChat'
+import Referral from './pages/Referral'
+import Settings from './pages/Settings'
 
 export default function App() {
   const langCtx = useLangProvider()
+  const userCtx = useUserProvider()
 
   return (
+    <UserContext.Provider value={userCtx}>
     <LangContext.Provider value={langCtx}>
     <BrowserRouter>
       <Routes>
         <Route element={<Layout><Home /></Layout>} path="/" />
+
+        {/* /guest/* — гостьові маршрути */}
+        <Route element={<Layout><Home /></Layout>} path="/guest" />
+        <Route element={<Layout><Games /></Layout>} path="/guest/games" />
+        <Route element={<Layout><Slots /></Layout>} path="/guest/slots" />
+        <Route element={<Layout><VIPClub /></Layout>} path="/guest/vip" />
+        <Route element={<Layout><Referral /></Layout>} path="/guest/referral" />
+        <Route element={<Layout><Bonuses /></Layout>} path="/guest/bonuses" />
+        <Route element={<Layout><Markets /></Layout>} path="/guest/markets" />
+        <Route element={<Layout><Sports /></Layout>} path="/guest/sports" />
+
         <Route element={<Layout><Slots /></Layout>} path="/slots" />
         <Route element={<Layout><Bets /></Layout>} path="/bets" />
         <Route element={<Layout><Profile /></Layout>} path="/profile" />
@@ -43,8 +63,14 @@ export default function App() {
         <Route element={<Layout><Statistics /></Layout>} path="/statistics" />
         <Route element={<Layout><Transactions /></Layout>} path="/transactions" />
         <Route element={<Layout><Games /></Layout>} path="/games" />
+        <Route element={<Layout><VIPClub /></Layout>} path="/vip" />
         <Route element={<Layout><Sports /></Layout>} path="/sports" />
-        <Route element={<Layout><SupportChat /></Layout>} path="/support" />
+        <Route element={<Layout><Bonuses /></Layout>} path="/bonuses" />
+        <Route element={<Layout><Markets /></Layout>} path="/markets" />
+        <Route element={<Layout><Ambassadors /></Layout>} path="/ambassadors" />
+        <Route element={<SupportChat />} path="/support" />
+        <Route element={<Layout><Referral /></Layout>} path="/referral" />
+        <Route element={<Layout><Settings /></Layout>} path="/settings" />
         <Route element={<GameMines />} path="/game/mines" />
         <Route element={<GamePlinko />} path="/game/plinko" />
         <Route element={<GameAviator />} path="/game/aviator" />
@@ -62,5 +88,6 @@ export default function App() {
       </Routes>
     </BrowserRouter>
     </LangContext.Provider>
+    </UserContext.Provider>
   )
 }

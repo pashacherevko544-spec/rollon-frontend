@@ -1,0 +1,732 @@
+[
+  {
+    "id": "xs_coin_blitz",
+    "name": "Coin Blitz",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunder_express",
+    "name": "Thunder Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_joker_coin_link",
+    "name": "Joker Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trump_it_coin_link_xmas",
+    "name": "Trump It Coin Link Xmas",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_xmas_coins_2_ultimate",
+    "name": "Xmas Coins 2: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_power_link",
+    "name": "Olympus Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_cash_coins",
+    "name": "Trinity Cash Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_electric_coins_ultimate",
+    "name": "Electric Coins: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_mania_hot_bonus",
+    "name": "Olympus Mania: Hot Bonus",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fireball_link_cash_up",
+    "name": "Fireball Link: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.22",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_atomic_coins",
+    "name": "Atomic Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_coins_ultimate",
+    "name": "Inferno Coins: ULTIMATE",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_doge_coin_link",
+    "name": "Doge Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_egypt_link",
+    "name": "Trinity Egypt Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fireball_volcanoes_trinity_series",
+    "name": "Fireball Volcanoes: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_coin_cash_up",
+    "name": "Power Coin: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.22",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond_2",
+    "name": "Striking Diamond 2",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_power_link",
+    "name": "Trinity Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.25",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_electro_coin_link",
+    "name": "Electro Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_olympus_coin_link",
+    "name": "Olympus Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_pharaoh_link",
+    "name": "Trinity Pharaoh Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_lucky_bacon_trinity_series",
+    "name": "Lucky Bacon: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_titan_power_wild",
+    "name": "Titan Power Wild",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_charming_coin_link",
+    "name": "Charming Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_diamond_link",
+    "name": "Trinity Diamond Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_coin_trinity_series",
+    "name": "Power Coin: Trinity Series",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trump_it_coin_link",
+    "name": "Trump It Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_zeus_power_link",
+    "name": "Zeus Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_hercules_power_wild",
+    "name": "Hercules Power Wild",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_rising_riches_link",
+    "name": "Rising Riches Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_super_santa_link",
+    "name": "Super Santa Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_trinity_gold_link",
+    "name": "Trinity Gold Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_coin_link",
+    "name": "Striking Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_boost_buffalo_express",
+    "name": "Power Boost: Buffalo Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thor_power_link",
+    "name": "Thor Power Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunderbolt_coin_link",
+    "name": "Thunderbolt Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.12",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_gorilla_boost",
+    "name": "Coin Rush: Gorilla Boost",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.15",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_thunder_wolf_link",
+    "name": "Thunder Wolf Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.75",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_moon_of_egypt",
+    "name": "Moon Of Egypt",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_power_boost_money_express",
+    "name": "Power Boost: Money Express",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond_link",
+    "name": "Striking Diamond Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_9_dragon_balls_cash_up",
+    "name": "9 Dragon Balls: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_fireballs_2",
+    "name": "Inferno Fireballs 2",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_egypt_links",
+    "name": "Egypt Links",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_almighty_hot_wins",
+    "name": "Almighty Hot Wins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fortune_coin_link",
+    "name": "Fortune Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_mexican_coins_cash_up",
+    "name": "Mexican Coins: CASH UP",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.1",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_egypt_coin_link",
+    "name": "Egypt Coin Link",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_deluxe_fruits_100",
+    "name": "Deluxe Fruits 100",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_midas_links",
+    "name": "Midas Links",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_elephant_strike",
+    "name": "Coin Rush: Elephant Strike",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_mega_rich_fruits",
+    "name": "Mega Rich Fruits",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_striking_diamond",
+    "name": "Striking Diamond",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_cash_busters",
+    "name": "Cash Busters",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "97.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_devils_diamond_rush",
+    "name": "Devil's Diamond Rush",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_arctic_coins",
+    "name": "Arctic Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_coin_rush_rhino",
+    "name": "Coin Rush: Rhino",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_fireballs",
+    "name": "Inferno Fireballs",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_vegas_starstruck",
+    "name": "Vegas Starstruck",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.2",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_xmas_coins",
+    "name": "XMAS Coins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_inferno_777_respins",
+    "name": "Inferno 777 Respins",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale_100",
+    "name": "Fruits Royale 100",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_moon_of_ra",
+    "name": "Moon Of Ra",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale_5",
+    "name": "Fruits Royale 5",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "95.66",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_book_of_midas",
+    "name": "Book Of Midas",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_fruits_royale",
+    "name": "Fruits Royale",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.5",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_city_pop_hawaii",
+    "name": "City Pop Hawaii",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_pop_and_drop",
+    "name": "Pop&Drop",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_into_the_jungle_bonus_buy",
+    "name": "Into The Jungle Bonus Buy",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_tropical_gold",
+    "name": "Tropical Gold",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.63",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_lil_santa_bonus_buy",
+    "name": "Lil' Santa Bonus Buy",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.3",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_sugar_drop_xmas",
+    "name": "Sugar Drop XMAS",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  },
+  {
+    "id": "xs_sugar_drop",
+    "name": "Sugar Drop",
+    "provider": "xstudios",
+    "provider_name": "Xstudios",
+    "rtp": "96.0",
+    "vol_range": "",
+    "genre": "slot",
+    "buy_feature": false
+  }
+]
